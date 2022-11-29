@@ -1,0 +1,16 @@
+.overall{
+    display: flex;
+    flex-direction: row;
+}
+.child1{
+    border: 2px solid black;
+    margin: 4px;
+    width: 30%;
+    height: 30%;
+}
+.child2{
+    border: 2px solid black;
+    margin: 4px;
+    width: 30%;
+    height: 30%;
+}
